@@ -17,35 +17,27 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<div align="left">
-
-```javascript
-const mahmoud = {
-    location: "📍 Chemnitz, Germany",
-    role: "🚀 Embedded Software Engineer",
-    company: "⚡ Infineon Technologies",
-    education: {
-        current: "🎓 M.Sc. Automotive Software Engineering",
-        university: "🏛️ TU Chemnitz (2024-2027)",
-        bachelor: "🎓 B.Sc. Communication & Computer Engineering"
-    },
-    expertise: ["ARM", "AUTOSAR", "Embedded C", "MCU Development"],
-    protocols: ["CAN", "LIN", "FlexRay", "Ethernet", "SPI", "I2C"],
-    passion: "Building the intelligent systems for next-gen vehicles",
-    currentFocus: {
-        work: "Developing PDL & Device Configurator",
-        learning: "Advanced Automotive Protocols",
-        goal: "Shaping the future of automotive software"
-    },
-    lifePhilosophy: "Code with purpose, engineer with precision 💡"
-};
-```
-
-</div>
-
-<br clear="right"/>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p align="left">
+        I am a dedicated <b>Embedded Software Engineer</b> at <b>Infineon Technologies</b>, specializing in the development of robust solutions for microcontroller systems. 
+      </p>
+      <p align="left">
+        Currently pursuing my Master’s in <b>Automotive Software Engineering</b> at TU Chemnitz, I bridge the gap between high-level software logic and low-level hardware constraints. My focus lies in <b>ARM architecture</b>, <b>AUTOSAR</b>, and the intricate communication protocols that define modern mobility.
+      </p>
+      <p align="left">
+        <i>"I don't just write code; I build the nervous system of the vehicles of tomorrow."</i>
+      </p>
+      <br>
+      <img src="https://img.shields.io/badge/Focus-Automotive_Safety-blue?style=flat-square&logo=roads&logoColor=white" />
+      <img src="https://img.shields.io/badge/Specialty-Bare_Metal_&_RTOS-green?style=flat-square&logo=cpu&logoColor=white" />
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Embedded Systems Animation" />
+    </td>
+  </tr>
+</table>
 
 ### 🔥 What I'm Up To
 
@@ -83,7 +75,7 @@ const mahmoud = {
 <td width="50%" valign="top">
 
 #### ⚡ Fun Facts
-- 🎓 Pursuing Master's while working full-time
+- 🎓 Pursuing Master's while working
 - 🌍 Multilingual: Arabic, English, German
 - 🔬 Love bridging hardware and software
 - 🚗 Fascinated by automotive innovation
