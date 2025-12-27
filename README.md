@@ -39,7 +39,9 @@
   </tr>
 </table>
 
-### 🔥 What I'm Up To
+---
+
+## 🔥 What I'm Up To
 
 <table>
 <tr>
@@ -65,7 +67,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 2025 Goals
+#### 🎯 2026 Goals
 - ✅ Excel in my role at Infineon Technologies
 - 📚 Advance in my Master's program
 - 🚀 Contribute to open-source automotive projects
@@ -170,26 +172,12 @@ Explore more embedded systems, automation, and data visualization projects on my
 - 🎨 Improving UI functionality with **graphical, data-driven representations**
 - ⚙️ Extending configuration logic for consistency with PDL architecture
 
-### 🔹 **Software Developer** @ CELERITAS-8 GmbH
+### 🔹 **Software Developer** @ [CELERITAS-8 GmbH](https://www.buchhaltung-leipzig.online) 
 *Previously*
 
 - 💻 Digitalized accounting processes through **Odoo-based solutions**
 - 📊 Implemented **Customer Portal** with dashboard and KPI visualization
 - 🌐 Developed responsive **Accounting Landing Page** with seamless integration
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-elbadrawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-elbadrawy&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-elbadrawy&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
