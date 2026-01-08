@@ -94,6 +94,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-e63c3c?style=for-the-badge)
 
 ### 🔧 Embedded & Automotive
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
@@ -113,6 +114,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logo=proteus&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge&logo=armkeil&logoColor=white)
 
 ---
 
