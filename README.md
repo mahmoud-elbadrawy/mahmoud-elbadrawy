@@ -24,8 +24,7 @@
         I am a dedicated <b>Embedded Software Engineer</b> at <b>Infineon Technologies</b>, specializing in the development of robust solutions for microcontroller systems. 
       </p>
       <p align="left">
-        Currently pursuing my Master’s in <b>Automotive Software Engineering</b> at TU Chemnitz, I bridge the gap between high-level software logic and low-level hardware constraints. My focus lies in <b>ARM architecture</b>, <b>AUTOSAR</b>, and the intricate communication protocols that define modern mobility.
-      </p>
+        Currently pursuing my Master’s in <b>Automotive Software Engineering</b>
       <p align="left">
         <i>"I don't just write code; I build the nervous system of the vehicles of tomorrow."</i>
       </p>
@@ -33,60 +32,12 @@
       <img src="https://img.shields.io/badge/Focus-Automotive_Safety-blue?style=flat-square&logo=roads&logoColor=white" />
       <img src="https://img.shields.io/badge/Specialty-Bare_Metal_&_RTOS-green?style=flat-square&logo=cpu&logoColor=white" />
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Embedded Systems Animation" />
-    </td>
+    
   </tr>
 </table>
 
 ---
 
-## 🔥 What I'm Up To
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 💼 Currently Working On
-- 🛠️ Developing **Peripheral Driver Library** for microcontrollers
-- 🎨 Enhancing **Device Configurator** UI & visualization
-- ⚙️ Implementing configuration logic and validation systems
-- 📊 Creating graphical representations of system architectures
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌱 Currently Learning
-- 🚗 Advanced **AUTOSAR** architecture and components
-- 🔌 Automotive **communication protocols** in depth
-- 🧠 **ARM Cortex-M** optimization techniques
-- 🔧 Real-time embedded systems design patterns
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎯 2026 Goals
-- ✅ Excel in my role at Infineon Technologies
-- 📚 Advance in my Master's program
-- 🚀 Contribute to open-source automotive projects
-- 🌟 Build innovative embedded solutions
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ Fun Facts
-- 🎓 Pursuing Master's while working
-- 🌍 Multilingual: Arabic, English, German
-- 🔬 Love bridging hardware and software
-- 🚗 Fascinated by automotive innovation
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
