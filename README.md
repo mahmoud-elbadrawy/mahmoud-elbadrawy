@@ -148,8 +148,8 @@ Explore more embedded systems, automation, and data visualization projects on my
 ## 🌐 Languages
 
 🇪🇬 **Arabic** - Native  
-🇬🇧 **English** - B2  
-🇩🇪 **German** - A2
+🇬🇧 **English** - C1  
+🇩🇪 **German** - A2 (Improving)
 
 ---
 
