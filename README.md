@@ -30,10 +30,10 @@ Pursuing my **M.Sc. in Automotive Software Engineering** at TU Chemnitz — work
 ### Werkstudent · Embedded Software Engineer
 **Infineon Technologies AG** · Dresden, Germany · `Nov 2025 – Present`
 
-- Developing and extending the **Peripheral Driver Library (PDL)** for microcontrollers
-- Contributing to the **Device Configurator** for peripheral selection and validation
-- Improving UI functionality with graphical, data-driven system representations
-- Extending configuration logic for consistency with PDL architecture
+- Migrated and adapted embedded software examples to new microcontroller platforms, ensuring compatibility and performance
+- Identified and resolved bugs in drivers and example implementations
+- Contributed to the Device Configurator, focusing on peripheral feature implementation
+- Enhanced the Device Configurator user interface by adding dynamic graphs and diagrams to better visualize peripheral configurations
 
 ### Werkstudent · Software Developer
 **CELERITAS-8 GmbH** · Leipzig, Germany · `Mar 2025 – Oct 2025`
