@@ -19,7 +19,7 @@
 
 I'm a dedicated **Embedded Software Engineer** at **Infineon Technologies AG**, developing and extending the **Peripheral Driver Library (PDL)** for microcontrollers and contributing to Device Configurator tooling.
 
-Pursuing my **M.Sc. in Automotive Software Engineering** at TU Chemnitz — working at the intersection of hardware constraints and software architecture, where every byte of RAM matters and every CPU cycle counts. Currently expanding into **IoT and connected embedded ecosystems**.
+Pursuing my **M.Sc. in Automotive Software Engineering** at TU Chemnitz — working at the intersection of hardware constraints and software architecture, where every byte of RAM matters and every CPU cycle counts.
 
 > *"I don't just write code — I build the nervous system of the vehicles of tomorrow."*
 
@@ -94,13 +94,15 @@ Pursuing my **M.Sc. in Automotive Software Engineering** at TU Chemnitz — work
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 Smart IoT Energy Monitoring System
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00DC82?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
-![Status](https://img.shields.io/badge/Coming_Soon-F59E0B?style=flat-square)
+### 🛠️ Containerized Embedded C Pipeline & CI/CD Demo
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ongoing-F59E0B?style=flat-square)
 
-Full-stack IoT solution for real-time energy consumption monitoring. Embedded sensor nodes collect power data and transmit via MQTT to a cloud backend with live dashboard visualization.
+Developing a modular C-based embedded monitoring system using CMake and the Unity test framework. Integrated Docker toolchain and VS Code task automation, backed by a GitHub Actions CI pipeline for automated build and unit test execution on every commit.
 
 </td>
 <td width="50%" valign="top">
