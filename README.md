@@ -94,7 +94,7 @@ Pursuing my **M.Sc. in Automotive Software Engineering** at TU Chemnitz — work
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Containerized Embedded C Pipeline & CI/CD Demo
+### 🛠️ [Containerized Embedded C Pipeline & CI/CD Demo](https://github.com/mahmoud-elbadrawy/c-project-template)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
