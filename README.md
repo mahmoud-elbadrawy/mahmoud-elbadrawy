@@ -6,7 +6,7 @@
 <!-- Clickable live portfolio preview -->
 <div align="center">
   <a href="https://elbadrawy.de" target="_blank">
-    <img src="https://image.thum.io/get/width/1400/crop/720/wait/10/https://elbadrawy.de/" alt="Open Mahmoud Elbadrawy's portfolio website" width="100%">
+    <img src="https://image.thum.io/get/width/1400/crop/720/wait/60/https://elbadrawy.de/" alt="Open Mahmoud Elbadrawy's portfolio website" width="100%">
   </a>
   <sub>↗ Click the preview to explore my portfolio</sub>
 </div>
