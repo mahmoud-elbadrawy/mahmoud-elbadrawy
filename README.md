@@ -185,7 +185,7 @@ Comprehensive notes and scripts for TCL — covering automation, tool configurat
 
 <div align="center">
 
-Open to **Werkstudent**, **internship**, and **thesis** opportunities in embedded systems, automotive software, and IoT — especially in Germany.
+Open to **junior embedded software** opportunities in embedded systems, automotive software, and IoT — especially in Germany.
 
 <a href="mailto:emahmoud.elbadrawy@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mahmoud-elbadrawy"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
