@@ -38,8 +38,7 @@ I enjoy working close to the hardware while applying sound software engineering 
 - Develop and extend low-level software drivers and example implementations for new microcontroller platforms.
 - Migrate embedded examples to new platforms and resolve bugs in drivers and example implementations.
 - Implement peripheral features in Device Configurator.
-- Develop interactive graph views for peripheral data flow, enable states, and clock routing, including real-time error highlighting.
-- Build timing-register conversion utilities for overflow ticks, frequency, and microseconds.
+- Develop interactive graph views for peripheral data flow, and enable states, including real-time error highlighting.
 
 ### CELERITAS-8 GmbH — Working Student, Software Developer
 **Leipzig, Germany · March 2025 – October 2025**
