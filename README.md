@@ -6,29 +6,13 @@
 <!-- Clickable live portfolio preview -->
 <div align="center">
   <a href="https://elbadrawy.de" target="_blank">
-    <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Felbadrawy.de/?w=1400" alt="Open Mahmoud Elbadrawy's portfolio website" width="100%">
+    <img src="image.png" alt="Open Mahmoud Elbadrawy's portfolio website" width="100%">
   </a>
-  <sub>↗ Click the preview to explore my portfolio</sub>
 </div>
 
-<div align="center">
+<div>
 
-# Mahmoud Elbadrawy
-
-### Embedded Software Engineer · Automotive Software · ARM · C/C++
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-elbadrawy.de-0F9B8E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://elbadrawy.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elbadrawy)
-[![Email](https://img.shields.io/badge/Email-Contact-0F9B8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud@elbadrawy.de)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-elbadrawy)
-
-📍 Chemnitz, Germany · Open to junior embedded software opportunities
-
-</div>
-
----
-
-## About Me
+## Hi, I am Mahmoud.
 
 I'm an **Embedded Software Engineer** and working student at **Infineon Technologies AG**, where I work on embedded software components, low-level drivers, microcontroller examples, and Device Configurator tooling.
 
