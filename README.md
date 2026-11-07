@@ -3,6 +3,14 @@
   Portfolio: https://elbadrawy.de
 -->
 
+<!-- Clickable live portfolio preview -->
+<div align="center">
+  <a href="https://elbadrawy.de" target="_blank">
+    <img src="https://image.thum.io/get/width/1400/crop/720/noanimate/https://elbadrawy.de/" alt="Open Mahmoud Elbadrawy's portfolio website" width="100%">
+  </a>
+  <sub>↗ Click the preview to explore my portfolio</sub>
+</div>
+
 <div align="center">
 
 # Mahmoud Elbadrawy
@@ -106,38 +114,56 @@ I enjoy working close to the hardware while applying sound software engineering 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/mahmoud-elbadrawy/c-project-template">Embedded C Project Template & CI/CD</a></h3>
-      <p>A modular embedded C project template with a CMake-based build system and automated unit testing using Ceedling, Unity, and CMock. A containerized toolchain and GitHub Actions provide consistent builds and test execution on every commit.</p>
-      <p><sub>C · CMake · Ceedling · Unity · CMock · Docker · GitHub Actions</sub></p>
+      <a href="https://github.com/mahmoud-elbadrawy/c-project-template">
+        <img src="https://elbadrawy.de/ci-cd.webp" alt="Embedded C project template and CI/CD" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahmoud-elbadrawy/c-project-template">Embedded C Project Template & CI/CD</a></h3>
+      <p>Modular embedded C template with CMake, Ceedling, Unity, CMock, Docker, and GitHub Actions for repeatable builds and automated unit tests.</p>
+      <sub>C · CMake · Ceedling · Unity · CMock · Docker · GitHub Actions</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🅿️ <a href="https://github.com/mahmoud-elbadrawy/smart_parking">Smart Parking System</a></h3>
-      <p>An AVR-based parking management system using sensor inputs to detect parking availability and control automated gate access, built around the ATmega32 microcontroller.</p>
-      <p><sub>C · ATmega32 · AVR · GPIO · Sensors</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/mahmoud-elbadrawy/smart_home">Smart Home Control System</a></h3>
-      <p>An ATmega32-based home automation system integrating temperature and light sensing, LCD feedback, keypad input, and servo control for monitoring and device control.</p>
-      <p><sub>C · ATmega32 · LM35 · LDR · LCD · PWM</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/mahmoud-elbadrawy/tips_dashboard">Tips Dashboard</a></h3>
-      <p>An interactive dashboard for exploring restaurant tipping patterns through data analysis, statistical summaries, and visualizations.</p>
-      <p><sub>Python · Streamlit · Pandas · Data Visualization</sub></p>
+      <a href="https://github.com/mahmoud-elbadrawy/smart_parking">
+        <img src="https://elbadrawy.de/smart-parking.webp" alt="Smart parking prototype" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahmoud-elbadrawy/smart_parking">Smart Parking System</a></h3>
+      <p>ATmega32 parking management system using sensor inputs to detect availability and control automated gate access.</p>
+      <sub>C · ATmega32 · AVR · GPIO · Sensors</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/mahmoud-elbadrawy/VHDL">VHDL Lessons & Concepts</a></h3>
-      <p>A structured collection of VHDL concepts, practical examples, and exercises covering digital design fundamentals, with simulations using Xilinx Vivado.</p>
-      <p><sub>VHDL · Digital Design · Vivado</sub></p>
+      <a href="https://github.com/mahmoud-elbadrawy/smart_home">
+        <img src="https://elbadrawy.de/smart-home.webp" alt="Smart home prototype" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahmoud-elbadrawy/smart_home">Smart Home Control System</a></h3>
+      <p>ATmega32 home automation integrating temperature and light sensing, LCD feedback, keypad input, and servo control.</p>
+      <sub>C · ATmega32 · LM35 · LDR · LCD · PWM</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⌨️ <a href="https://github.com/mahmoud-elbadrawy/TCL">Tcl Scripting & Notes</a></h3>
-      <p>A collection of Tcl scripts and learning notes covering scripting fundamentals, task automation, and tool configuration for EDA workflows.</p>
-      <p><sub>Tcl · Automation · Scripting · EDA Tools</sub></p>
+      <a href="https://github.com/mahmoud-elbadrawy/tips_dashboard">
+        <img src="https://elbadrawy.de/tips-dashboard.webp" alt="Tips analytics dashboard" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahmoud-elbadrawy/tips_dashboard">Tips Dashboard</a></h3>
+      <p>Interactive dashboard for exploring restaurant tipping patterns through data analysis, statistical summaries, and visualizations.</p>
+      <sub>Python · Streamlit · Pandas · Data Visualization</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahmoud-elbadrawy/VHDL">
+        <img src="https://elbadrawy.de/vhdl.webp" alt="VHDL and FPGA project" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahmoud-elbadrawy/VHDL">VHDL Lessons & Concepts</a></h3>
+      <p>Structured VHDL concepts, practical examples, and exercises covering digital design fundamentals with Xilinx Vivado simulations.</p>
+      <sub>VHDL · Digital Design · Vivado</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahmoud-elbadrawy/TCL">
+        <img src="https://elbadrawy.de/tcl.webp" alt="Tcl scripting workspace" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahmoud-elbadrawy/TCL">Tcl Scripting & Notes</a></h3>
+      <p>Scripts and learning notes covering scripting fundamentals, task automation, and tool configuration for EDA workflows.</p>
+      <sub>Tcl · Automation · Scripting · EDA Tools</sub>
     </td>
   </tr>
 </table>
