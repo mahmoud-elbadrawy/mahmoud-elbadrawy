@@ -186,7 +186,6 @@ Interested in the book? [Get in touch](mailto:mahmoud@elbadrawy.de).
 I'm open to junior embedded software opportunities in Germany, particularly in embedded systems, automotive software, and IoT.
 
 [![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0F9B8E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://elbadrawy.de)
-[![Email](https://img.shields.io/badge/Email_Me-0F9B8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud@elbadrawy.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elbadrawy)
 [![XING](https://img.shields.io/badge/XING-Connect-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Mahmoud_Elbadrawy)
 
