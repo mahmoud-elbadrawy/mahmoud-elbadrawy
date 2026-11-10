@@ -73,9 +73,6 @@ I enjoy working close to the hardware while applying sound software engineering 
 ![UART](https://img.shields.io/badge/UART-0F9B8E?style=flat-square)
 ![CAN](https://img.shields.io/badge/CAN-38BDF8?style=flat-square)
 ![LIN](https://img.shields.io/badge/LIN-38BDF8?style=flat-square)
-![FlexRay](https://img.shields.io/badge/FlexRay-38BDF8?style=flat-square)
-![Ethernet](https://img.shields.io/badge/Ethernet-F59E0B?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-F59E0B?style=flat-square)
 
 **Tools & Development**
 
@@ -157,7 +154,7 @@ I enjoy working close to the hardware while applying sound software engineering 
 
 I'm working on a beginner-friendly, step-by-step guide to testing embedded C without hardware. It is intended for engineers who are new to unit testing and want to get started without needing a lab full of development boards.
 
-Interested in the book? [Get in touch](mailto:mahmoud@elbadrawy.de).
+Interested in the book? Get in touch.
 
 ## Education
 
